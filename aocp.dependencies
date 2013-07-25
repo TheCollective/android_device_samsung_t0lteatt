@@ -21,18 +21,18 @@
     },
     {
     "repository": "proprietary_vendor_t0lte",
-    "target_path": "vendor/samsung/jfltetmo"
+    "target_path": "vendor/samsung/t0lte"
     },
     {
     "repository": "proprietary_vendor_t0lteatt",
-    "target_path": "vendor/samsung/jf-common"
+    "target_path": "vendor/samsung/t0lteatt"
     },
     {
     "repository": "proprietary_vendor_t0ltecdma",
-    "target_path": "vendor/samsung/jfltetmo"
+    "target_path": "vendor/samsung/t0ltecdma"
     },
     {
     "repository": "proprietary_vendor_smdk4412-common",
-    "target_path": "vendor/samsung/jfltetmo"
+    "target_path": "vendor/samsung/smdk4412-common"
     }
 ]
